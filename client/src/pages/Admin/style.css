@@ -1,0 +1,47 @@
+
+  .cell {
+    font-size: 18px;
+  }
+  .titre-tab {
+    color: rgb(53, 51, 51);
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 1.1rem;
+  }
+   .menu {
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    outline: none;
+  }
+  .avatar{
+		background:rgba(0, 0, 0, 0.281);
+		padding:2em 0.5em;
+		text-align:center;
+	}
+  .menu ul {
+    list-style:none;
+		padding:0.5em 0;
+    margin-left: 10px;
+  }
+  .menu ul li {
+    padding:0.5em 1em 0.5em 3em;
+		font-size:20px;
+    font-weight:bold;
+    cursor:pointer;
+  }
+  body{
+    
+    margin:0;
+    font-family:"Open Sans", Helvetica Neue, Helvetica, Arial, sans-serif;
+  }
+  .menu ul li a {
+    cursor: pointer;
+    color: #000;
+  }

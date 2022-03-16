@@ -1,0 +1,19 @@
+.PostCard-btn {
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+}
+.PostCard-btn button {
+    width: 70px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+#editButton {
+    background-color: cadetblue;
+}
+#deleteButton {
+    background-color: brown;
+}

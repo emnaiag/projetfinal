@@ -1,0 +1,28 @@
+.about {
+    margin-top: 50px;
+    margin-left: 130px;
+    margin-right: 130px;
+    display: flex;
+}
+.text-apropos {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.text-apropos span {
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+.text-apropos p {
+    font-family: 'Lora', serif;
+    font-size: 20px;
+    line-height: 2.5em;
+    margin-top: 20px;
+    text-indent: 5%;
+    text-align: justify;
+    
+}
+.textgras {
+    font-weight: bold;
+}
